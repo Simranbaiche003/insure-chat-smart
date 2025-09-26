@@ -1,0 +1,3 @@
+# This is a placeholder file. In a real implementation, this would be an actual Excel file
+# with all the insurance data tables as specified in the requirements.
+# The application will fall back to mock data when this file is not available.
